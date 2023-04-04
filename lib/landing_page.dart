@@ -116,7 +116,7 @@ class _LandingPageState extends State<LandingPage> {
                 ),
                 Image.asset(
                   'images/hero_big_image.png',
-                  height: 550,
+                  height: 450,
                 ),
 
                 //NOTE : SCROLL TEXT
